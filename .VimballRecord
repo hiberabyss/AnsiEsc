@@ -1,0 +1,1 @@
+AnsiEsc.vba.gz: call delete('/Users/hbliu/.dotfiles/data/vimdata/bundle/AnsiEsc/plugin/AnsiEscPlugin.vim')|call delete('/Users/hbliu/.dotfiles/data/vimdata/bundle/AnsiEsc/autoload/AnsiEsc.vim')|call delete('/Users/hbliu/.dotfiles/data/vimdata/bundle/AnsiEsc/plugin/cecutil.vim')|call delete('/Users/hbliu/.dotfiles/data/vimdata/bundle/AnsiEsc/doc/AnsiEsc.txt')
